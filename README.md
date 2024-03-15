@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everyone 👋
 
 I'm Khanh, currently I'm a 3rd year student at FPT University with my current major being Artificial Intelligence. I can do work related to computer vision and natural language processing.
 
