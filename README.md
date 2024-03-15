@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-I'm Khanh, currently I'm a 3rd year student at FPT University with my current major being Artificial Intelligence. I can do work related to computer vision and natural language processing.
+I'm Khanh, currently I'm a 3rd year student at FPT University with my current major being Artificial Intelligence. I can do work related to computer vision and natural language preprocessing.
 
 Here are some ideas to get you started:
 
