@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Khanhduong123/Khanhduong123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Khanh, currently I'm a 3rd year student at FPT University with my current major being Artificial Intelligence. I can do work related to computer vision and natural language processing.
 
 Here are some ideas to get you started:
 
