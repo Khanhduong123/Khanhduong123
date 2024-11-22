@@ -1,10 +1,11 @@
 ### Hi everyone 👋
 
-I'm Khanh, currently I'm a 3rd year student at FPT University with my current major being Artificial Intelligence. I can do work related to computer vision and natural language preprocessing.
+I'm Khanh, currently I'm a final year student at FPT University with my current major being Artificial Intelligence. I can do work related to Computer Vision and Natural Language Preprocessing. I have a some knowledge about LLM such as LLama2, LLama3 architecture and have some experience about RAG applications such as chatbot,...
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently intership at FPT Software AI Valey.
+- 🔭 I’m intershiped at FPT Software AI Valey.
+- 🔭 I'm doing Thesis in FPT University about Computer Vision field
 - 📫 If you have any questions about me, connect with me at linkedln: https://www.linkedin.com/in/khanh-duong-951708260/
 
 💻 IDEs/Editors:
